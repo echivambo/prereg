@@ -1,0 +1,14 @@
+html {
+    position: relative;
+    min-height: 100%;
+    background: #516673;
+}
+.titulo{
+    font-size: 1.6em;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin: 20px 0px;
+}
+.transparence{
+    margin-top: 50px;
+}
